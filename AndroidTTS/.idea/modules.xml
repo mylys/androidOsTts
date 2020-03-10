@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/AndroidTTS.iml" filepath="$PROJECT_DIR$/AndroidTTS.iml" group="AndroidTTS" />
+      <module fileurl="file://$PROJECT_DIR$/app/AndroidTTS-app.iml" filepath="$PROJECT_DIR$/app/AndroidTTS-app.iml" group="AndroidTTS/app" />
+      <module fileurl="file://$PROJECT_DIR$/OperationAndroidTTS.iml" filepath="$PROJECT_DIR$/OperationAndroidTTS.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+    </modules>
+  </component>
+</project>
